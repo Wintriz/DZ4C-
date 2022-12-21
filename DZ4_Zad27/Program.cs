@@ -2,3 +2,5 @@
 // 452 -> 11
 // 82 -> 10
 // 9012 -> 12
+Console.WriteLine("Введите число");
+string num = Console.ReadLine();
